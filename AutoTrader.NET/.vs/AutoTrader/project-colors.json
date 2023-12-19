@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "338c108e-e799-4111-b15a-b23e36c29c50": {
+      "ProjectGuid": "338c108e-e799-4111-b15a-b23e36c29c50",
+      "DisplayName": "AutoTrader.API.old",
+      "ColorIndex": 0
+    },
+    "a563caae-28c6-4ef1-a3b2-791f6111c1ef": {
+      "ProjectGuid": "a563caae-28c6-4ef1-a3b2-791f6111c1ef",
+      "DisplayName": "AutoTrader.Domain",
+      "ColorIndex": 1
+    },
+    "ce041532-b096-467b-a964-1e8bb8f8cc1d": {
+      "ProjectGuid": "ce041532-b096-467b-a964-1e8bb8f8cc1d",
+      "DisplayName": "AutoTrader.Application",
+      "ColorIndex": 2
+    },
+    "e96c8f40-065d-442a-bac9-e49874a844e4": {
+      "ProjectGuid": "e96c8f40-065d-442a-bac9-e49874a844e4",
+      "DisplayName": "AutoTrader.Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d5816dab-2763-4baf-8bf4-a0957dd75ccc": {
+      "ProjectGuid": "d5816dab-2763-4baf-8bf4-a0957dd75ccc",
+      "DisplayName": "AutoTrader.API",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
